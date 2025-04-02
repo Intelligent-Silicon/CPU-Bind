@@ -5,9 +5,9 @@
 ![Screenshot](https://github.com/Intelligent-Silicon/CPU-Bind/blob/main/CPUBind.png)
 
 
-This App demomonstrates how to fetch the CPU core data.
+This App demonstrates how to fetch the CPU core data.
 
-Set the Cores the App can run on.
+Set the Cores the App can run on (Affinity Mask).
 
 Sets the core a thread can run on, and switches it to the correct core if the thread starts on the wrong core.
 
