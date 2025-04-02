@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Screenshot](https://github.com/Intelligent-Silicon/CPU-Bind/blob/main/CPU%20Bind.png)
+![Screenshot](https://github.com/Intelligent-Silicon/CPU-Bind/blob/main/CPUBind.png)
 
 
 This App demomonstrates how to fetch the CPU core data.
